@@ -1,0 +1,8 @@
+For ONE MILLION STRINGS (two):
+The time takein by serial code for two strings is: 441
+
+For THREE MILLION STRINGS (two):
+The time takein by serial code for two strings is: 1086
+
+For FIVE MILLION STRINGS (two):
+The time takein by serial code for two strings is: 1689

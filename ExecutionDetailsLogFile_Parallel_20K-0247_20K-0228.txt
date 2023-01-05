@@ -1,0 +1,56 @@
+For ONE MILLION STRINGS (two):
+The time takein by parallel code for two strings is: 168.554 on 2 threads.
+The time takein by parallel code for two strings is: 92.397 on 4 threads.
+The time takein by parallel code for two strings is: 71.347 on 6 threads.
+The time takein by parallel code for two strings is: 69.3422 on 8 threads.
+The time takein by parallel code for two strings is: 75.9118 on 10 threads.
+The time takein by parallel code for two strings is: 54.2566 on 15 threads.
+The time takein by parallel code for two strings is: 127.9 on 20 threads.
+The time takein by parallel code for two strings is: 150.577 on 30 threads.
+The time takein by parallel code for two strings is: 180.18 on 40 threads.
+The time takein by parallel code for two strings is: 216.988 on 50 threads.
+The time takein by parallel code for two strings is: 251.557 on 60 threads.
+The time takein by parallel code for two strings is: 284.185 on 70 threads.
+The time takein by parallel code for two strings is: 305.869 on 75 threads.
+The time takein by parallel code for two strings is: 323.247 on 80 threads.
+The time takein by parallel code for two strings is: 357.057 on 90 threads.
+The time takein by parallel code for two strings is: 394.752 on 100 threads.
+The time takein by parallel code for two strings is: 573.422 on 150 threads.
+
+For THREE MILLION STRINGS (two):
+The time takein by parallel code for two strings is: 526.802 on 2 threads.
+The time takein by parallel code for two strings is: 283.955 on 4 threads.
+The time takein by parallel code for two strings is: 226.237 on 6 threads.
+The time takein by parallel code for two strings is: 205.068 on 8 threads.
+The time takein by parallel code for two strings is: 237.708 on 10 threads.
+The time takein by parallel code for two strings is: 165.639 on 15 threads.
+The time takein by parallel code for two strings is: 396.683 on 20 threads.
+The time takein by parallel code for two strings is: 461.083 on 30 threads.
+The time takein by parallel code for two strings is: 558.163 on 40 threads.
+The time takein by parallel code for two strings is: 664.821 on 50 threads.
+The time takein by parallel code for two strings is: 767.931 on 60 threads.
+The time takein by parallel code for two strings is: 872.878 on 70 threads.
+The time takein by parallel code for two strings is: 922.725 on 75 threads.
+The time takein by parallel code for two strings is: 977.2 on 80 threads.
+The time takein by parallel code for two strings is: 1087.54 on 90 threads.
+The time takein by parallel code for two strings is: 1200.84 on 100 threads.
+The time takein by parallel code for two strings is: 1739.64 on 150 threads.
+
+For FIVE MILLION STRINGS (two):
+The time takein by parallel code for two strings is: 841.274 on 2 threads.
+The time takein by parallel code for two strings is: 489.324 on 4 threads.
+The time takein by parallel code for two strings is: 374.813 on 6 threads.
+The time takein by parallel code for two strings is: 344.782 on 8 threads.
+The time takein by parallel code for two strings is: 390.168 on 10 threads.
+The time takein by parallel code for two strings is: 275.796 on 15 threads.
+The time takein by parallel code for two strings is: 658.879 on 20 threads.
+The time takein by parallel code for two strings is: 766.884 on 30 threads.
+The time takein by parallel code for two strings is: 933.764 on 40 threads.
+The time takein by parallel code for two strings is: 1108.27 on 50 threads.
+The time takein by parallel code for two strings is: 1281.54 on 60 threads.
+The time takein by parallel code for two strings is: 1438.5 on 70 threads.
+The time takein by parallel code for two strings is: 1541.39 on 75 threads.
+The time takein by parallel code for two strings is: 1638.05 on 80 threads.
+The time takein by parallel code for two strings is: 1806.03 on 90 threads.
+The time takein by parallel code for two strings is: 1996.71 on 100 threads.
+The time takein by parallel code for two strings is: 2947.5 on 150 threads.
